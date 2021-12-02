@@ -60,5 +60,4 @@ share/
 include/darknet/
 uselib
 uselib_track
-darknet
 vcpkg/
