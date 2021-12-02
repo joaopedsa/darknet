@@ -5,7 +5,6 @@
 *.out
 *.png
 *.so
-*.exe
 *.dll
 *.lib
 *.dylib
